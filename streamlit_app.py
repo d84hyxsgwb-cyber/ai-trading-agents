@@ -10,6 +10,46 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+import streamlit as st
+
+# ============================
+# AUTENTICAZIONE SEMPLICE
+# ============================
+def check_password():
+    """Semplice form di login basato su Streamlit secrets."""
+
+    def password_entered():
+        """Controlla se la password è corretta."""
+        if st.session_state["password"] == st.secrets["auth"]["password"]:
+            st.session_state["password_correct"] = True
+            # per sicurezza, rimuovo la password dalla sessione
+            del st.session_state["password"]
+        else:
+            st.session_state["password_correct"] = False
+
+    # Se l'utente è già autenticato in questa sessione, ok
+    if st.session_state.get("password_correct", False):
+        return True
+
+    # Altrimenti mostro il form di login
+    st.title("🔒 AI Trading Dashboard – Login")
+    st.text_input(
+        "Inserisci la password",
+        type="password",
+        key="password",
+        on_change=password_entered,
+    )
+
+    # Se la password è stata inserita ma è sbagliata
+    if "password_correct" in st.session_state and not st.session_state["password_correct"]:
+        st.error("Password sbagliata. Riprova.")
+
+    return False
+
+# Blocca l'app se non autenticato
+if not check_password():
+    st.stop()
+
 from technical_agent import run_technical_agent
 from paper_trading import open_trade, update_trades_with_price, load_trades
 
