@@ -1,0 +1,184 @@
+# =======================
+# BROAD US INDEX ETF
+# =======================
+SPY     # SPDR S&P 500
+VOO     # Vanguard S&P 500
+IVV     # iShares Core S&P 500
+VTI     # Vanguard Total US
+SCHB    # Schwab US Broad Market
+ITOT    # iShares Total US
+DIA     # Dow Jones
+QQQ     # Nasdaq 100
+QQQM    # Nasdaq 100 (low cost)
+IWM     # Russell 2000
+MDY     # S&P MidCap 400
+
+# =======================
+# US SECTOR ETF
+# =======================
+XLK     # Technology
+XLF     # Financial
+XLV     # Health Care
+XLY     # Consumer Discretionary
+XLP     # Consumer Staples
+XLE     # Energy
+XLI     # Industrials
+XLU     # Utilities
+XLB     # Materials
+XLRE    # Real Estate
+XLC     # Communication Services
+
+# =======================
+# INTERNATIONAL / GLOBAL INDEX
+# =======================
+EEM     # Emerging Markets
+EFA     # Developed ex-US
+VEA     # Vanguard Developed ex-US
+VWO     # Vanguard Emerging Markets
+ACWI    # MSCI All Country World
+VXUS    # Vanguard Total International
+EWJ     # Japan
+EWZ     # Brazil
+INDA    # India
+MCHI    # China
+FEZ     # Euro Stoxx 50
+EWU     # UK
+EWW     # Mexico
+EWC     # Canada
+
+# =======================
+# BONDS / FIXED INCOME
+# =======================
+TLT     # 20+ Year Treasuries
+IEF     # 7-10 Year Treasuries
+SHY     # 1-3 Year Treasuries
+BND     # Vanguard Total Bond
+AGG     # iShares Aggregate Bond
+HYG     # High Yield
+LQD     # Investment Grade Corporate
+TIP     # Inflation-Protected
+EMB     # EM Bond
+BNDX    # Int'l Bond
+JNK     # High Yield Bonds
+
+# =======================
+# FACTOR / STYLE ETF
+# =======================
+MTUM    # Momentum
+VLUE    # Value
+SIZE    # Size factor
+USMV    # Min Volatility
+QUAL    # Quality
+SPYG    # S&P 500 Growth
+SPYV    # S&P 500 Value
+VUG     # Vang. Growth
+VTV     # Vang. Value
+RSP     # Equal Weight S&P 500
+
+# =======================
+# THEMATIC TECH / INNOVATION
+# =======================
+ARKK    # ARK Innovation
+ARKW    # Next Gen Web
+ARKQ    # Autonomous & Robotics
+ARKG    # Genomics
+SMH     # VanEck Semiconductors
+SOXX    # iShares Semiconductors
+SOXL    # 3x Semi Bull (leva)
+SOXS    # 3x Semi Bear (leva)
+CIBR    # Cybersecurity
+HACK    # Cybersecurity
+BOTZ    # Robotics & AI
+ROBO    # Robotics & Automation
+CLOU    # Cloud Computing
+FINX    # FinTech
+IPAY    # Digital Payments
+BUG     # Cybersecurity
+SKYY    # Cloud Computing
+
+# =======================
+# DEFENSE / SECURITY / AEROSPACE
+# =======================
+ITA     # iShares Aerospace & Defense
+XAR     # SPDR Aerospace & Defense
+PPA     # Invesco Aerospace & Defense
+
+# =======================
+# REAL ASSETS / COMMODITIES
+# =======================
+GLD     # Gold
+IAU     # Gold (low cost)
+SLV     # Silver
+PPLT    # Platinum
+PALL    # Palladium
+DBC     # Commodities basket
+GSG     # Commodities index
+USO     # Oil
+UNG     # Natural Gas
+WOOD    # Timber
+PHO     # Water resources
+FIW     # Water ETF
+CGW     # Global Water
+
+# =======================
+# REITs / REAL ESTATE
+# =======================
+VNQ     # Vanguard REIT
+IYR     # US REIT
+SCHH    # Schwab US REIT
+REET    # Global REIT
+RWR     # S&P REIT
+
+# =======================
+# DIVIDEND / INCOME ETF
+# =======================
+VYM     # High Dividend Yield
+SCHD    # Schwab Dividend
+DVY     # Select Dividend
+HDV     # Core High Dividend
+SDY     # Dividend Aristocrats
+NOBL    # S&P 500 Dividend Aristocrats
+
+# =======================
+# REGION / COUNTRY NICHE
+# =======================
+KWEB    # China Internet
+EWY     # Korea
+EWT     # Taiwan
+EWH     # Hong Kong
+EWL     # Switzerland
+EWG     # Germany
+EWQ     # France
+EWI     # Italy
+EWA     # Australia
+EWS     # Singapore
+
+# =======================
+# CLEAN ENERGY / ESG / ALT
+# =======================
+ICLN    # Global Clean Energy
+TAN     # Solar
+PBW     # Clean Energy Portfolio
+QCLN    # Clean Energy NASDAQ
+PBD     # Global Clean Energy
+FAN     # Global Wind Energy
+KRBN    # Carbon Credits
+
+# =======================
+# NICHE / SPECIALTY ETF
+# =======================
+FIVG    # 5G
+UFO     # Space ETF
+POTX    # Cannabis
+YOLO    # Cannabis
+MJ      # Cannabis
+HAIL    # Autonomous & EV
+LIT     # Lithium & Battery
+BLOK    # Blockchain
+BITO    # Bitcoin Futures
+BTF     # Bitcoin Futures
+WGMI    # Bitcoin Miners
+SPAK    # SPAC & New Issue
+FDN     # Internet
+XBI     # Biotech
+IBB     # Biotech

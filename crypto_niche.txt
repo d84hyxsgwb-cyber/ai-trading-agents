@@ -1,0 +1,26 @@
+# Crypto di nicchia / alto rischio
+KAS-USD
+MINA-USD
+SEI-USD
+SUI-USD
+TIA-USD
+KAVA-USD
+KSM-USD
+AXL-USD
+ROSE-USD
+ZIL-USD
+CELO-USD
+GLMR-USD
+MOVR-USD
+WIF-USD
+PEPE-USD
+FLOKI-USD
+BONK-USD
+BABYDOGE-USD
+MAGIC-USD
+ILV-USD
+PYR-USD
+YGG-USD
+HNT-USD
+RPL-USD
+ASTS-USD    # se lo usi come stock/crypto ibrido, altrimenti ometti

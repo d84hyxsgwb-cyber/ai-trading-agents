@@ -1,0 +1,216 @@
+# =======================
+# MEGA CAP TECH / GROWTH
+# =======================
+AAPL    # Apple
+MSFT    # Microsoft
+GOOGL   # Alphabet A
+GOOG    # Alphabet C
+AMZN    # Amazon
+META    # Meta Platforms
+NVDA    # Nvidia
+TSLA    # Tesla
+NFLX    # Netflix
+ADBE    # Adobe
+CRM     # Salesforce
+ORCL    # Oracle
+INTC    # Intel
+AMD     # Advanced Micro Devices
+AVGO    # Broadcom
+CSCO    # Cisco
+SHOP    # Shopify
+SNOW    # Snowflake
+NOW     # ServiceNow
+UBER    # Uber
+ABNB    # Airbnb
+PANW    # Palo Alto Networks
+FTNT    # Fortinet
+CRWD    # CrowdStrike
+ZS      # Zscaler
+OKTA    # Okta
+DDOG    # Datadog
+NET     # Cloudflare
+MDB     # MongoDB
+PLTR    # Palantir
+
+# =======================
+# BANKS & FINANCIALS
+# =======================
+JPM     # JPMorgan
+BAC     # Bank of America
+C       # Citigroup
+WFC     # Wells Fargo
+GS      # Goldman Sachs
+MS      # Morgan Stanley
+BLK     # BlackRock
+AXP     # American Express
+SCHW    # Charles Schwab
+BK      # Bank of New York Mellon
+HSBC    # HSBC
+UBS     # UBS
+PYPL    # PayPal
+SQ      # Block
+V       # Visa
+MA      # Mastercard
+
+# =======================
+# DEFENSE & AEROSPACE
+# =======================
+LMT     # Lockheed Martin
+NOC     # Northrop Grumman
+RTX     # RTX (Raytheon)
+GD      # General Dynamics
+BA      # Boeing
+LHX     # L3Harris
+TXT     # Textron
+TDG     # TransDigm
+HEI     # HEICO
+AIR     # AAR Corp
+HII     # Huntington Ingalls
+
+# =======================
+# ENERGY / OIL & GAS
+# =======================
+XOM     # Exxon Mobil
+CVX     # Chevron
+SHEL    # Shell
+BP      # BP
+TTE     # TotalEnergies
+COP     # ConocoPhillips
+SLB     # Schlumberger
+EOG     # EOG Resources
+PXD     # Pioneer Natural Resources
+MPC     # Marathon Petroleum
+PSX     # Phillips 66
+VLO     # Valero
+
+# =======================
+# INDUSTRIALS / TRANSPORT
+# =======================
+CAT     # Caterpillar
+DE      # Deere
+GE      # General Electric
+HON     # Honeywell
+MMM     # 3M
+ETN     # Eaton
+UNP     # Union Pacific
+FDX     # FedEx
+UPS     # UPS
+DAL     # Delta Air Lines
+LUV     # Southwest Airlines
+CSX     # CSX Corp
+NSC     # Norfolk Southern
+
+# =======================
+# HEALTHCARE & PHARMA
+# =======================
+JNJ     # Johnson & Johnson
+PFE     # Pfizer
+MRK     # Merck
+ABBV    # AbbVie
+LLY     # Eli Lilly
+BMY     # Bristol-Myers Squibb
+UNH     # UnitedHealth
+TMO     # Thermo Fisher
+DHR     # Danaher
+ISRG    # Intuitive Surgical
+MDT     # Medtronic
+AMGN    # Amgen
+GILD    # Gilead Sciences
+VRTX    # Vertex
+REGN    # Regeneron
+
+# =======================
+# CONSUMER / LUXURY / FOOD
+# =======================
+PG      # Procter & Gamble
+KO      # Coca-Cola
+PEP     # PepsiCo
+MCD     # McDonald's
+SBUX    # Starbucks
+NKE     # Nike
+DIS     # Disney
+COST    # Costco
+HD      # Home Depot
+LOW     # Lowe's
+EL      # Estée Lauder
+LULU    # Lululemon
+TGT     # Target
+WMT     # Walmart
+DEO     # Diageo
+UL      # Unilever
+
+# =======================
+# REAL ESTATE / UTILITIES
+# =======================
+SPG     # Simon Property
+PLD     # Prologis
+AMT     # American Tower
+CCI     # Crown Castle
+O       # Realty Income
+DLR     # Digital Realty
+NEE     # NextEra Energy
+DUK     # Duke Energy
+SO      # Southern Company
+AEP     # American Electric Power
+
+# =======================
+# EM / CHINA / INTERNATIONAL
+# =======================
+BABA    # Alibaba
+JD      # JD.com
+PDD     # Pinduoduo
+TCEHY   # Tencent (OTC)
+NIO     # NIO
+LI      # Li Auto
+XP      # XP Inc (Brazil)
+ITUB    # Itau Unibanco
+MELI    # MercadoLibre
+INFY    # Infosys
+TCS     # Tata Consultancy (se supportato)
+VALE    # Vale
+RIO     # Rio Tinto
+
+# =======================
+# TECH NICHE / CLOUD / CYBERSEC
+# =======================
+ZS      # Zscaler
+CRWD    # CrowdStrike
+OKTA    # Okta
+DDOG    # Datadog
+NET     # Cloudflare
+MDB     # MongoDB
+TWLO    # Twilio
+FSLY    # Fastly
+SWKS    # Skyworks
+QRVO    # Qorvo
+SMCI    # Super Micro Computer
+
+# =======================
+# NICHE / SPECIALTY STOCKS
+# (innovazione, acqua, clean energy, space, quantum, crypto mining)
+# =======================
+ENPH    # Enphase Energy
+SEDG    # SolarEdge
+FSLR    # First Solar
+PLUG    # Plug Power
+BE      # Bloom Energy
+AWK     # American Water Works
+WTRG    # Essential Utilities
+CWT     # California Water
+RGTI    # Rigetti Computing
+IONQ    # IonQ
+ASTS    # AST SpaceMobile
+RKLB    # Rocket Lab
+LAZR    # Luminar
+ALGM    # Allegro Micro
+MBLY    # Mobileye
+CLSK    # CleanSpark
+MARA    # Marathon Digital
+RIOT    # Riot Platforms
+HIVE    # Hive Blockchain
+BTBT    # Bit Digital
+HIMS    # Hims & Hers
+CELH    # Celsius Holdings
+DKNG    # DraftKings
+ROKU    # Roku
+PARA    # Paramount Global

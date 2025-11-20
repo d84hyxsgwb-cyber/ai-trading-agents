@@ -1,0 +1,165 @@
+# =======================
+# TOP L1 / BLUE CHIP
+# =======================
+BTC-USD    # Bitcoin
+ETH-USD    # Ethereum
+BNB-USD    # BNB
+SOL-USD    # Solana
+XRP-USD    # XRP
+ADA-USD    # Cardano
+AVAX-USD   # Avalanche
+TRX-USD    # Tron
+TON-USD    # Toncoin
+DOGE-USD   # Dogecoin
+LTC-USD    # Litecoin
+BCH-USD    # Bitcoin Cash
+ETC-USD    # Ethereum Classic
+XLM-USD    # Stellar
+ATOM-USD   # Cosmos
+EGLD-USD   # MultiversX (Elrond)
+ALGO-USD   # Algorand
+NEAR-USD   # Near Protocol
+APT-USD    # Aptos
+SUI-USD    # Sui
+SEI-USD    # Sei
+FTM-USD    # Fantom
+KAVA-USD   # Kava
+KSM-USD    # Kusama
+
+# =======================
+# L2 / SCALING / INFRA
+# =======================
+MATIC-USD  # Polygon
+OP-USD     # Optimism
+ARB-USD    # Arbitrum
+IMX-USD    # Immutable
+LRC-USD    # Loopring
+SKL-USD    # Skale
+GRT-USD    # The Graph
+RUNE-USD   # THORChain
+INJ-USD    # Injective
+STX-USD    # Stacks
+AXL-USD    # Axelar
+CKB-USD    # Nervos
+ROSE-USD   # Oasis Network
+ZIL-USD    # Zilliqa
+CELO-USD   # Celo
+HNT-USD    # Helium
+RNDR-USD   # Render (AI infra)
+TIA-USD    # Celestia
+GLMR-USD   # Moonbeam
+MOVR-USD   # Moonriver
+
+# =======================
+# DEFI BLUE CHIP
+# =======================
+UNI-USD    # Uniswap
+AAVE-USD   # Aave
+CRV-USD    # Curve
+SNX-USD    # Synthetix
+MKR-USD    # Maker
+COMP-USD   # Compound
+CAKE-USD   # PancakeSwap
+1INCH-USD  # 1inch
+YFI-USD    # Yearn Finance
+LDO-USD    # Lido
+GMX-USD    # GMX
+DYDX-USD   # dYdX
+BAL-USD    # Balancer
+SUSHI-USD  # SushiSwap
+CVX-USD    # Convex
+RPL-USD    # Rocket Pool
+FXS-USD    # Frax Share
+RAY-USD    # Raydium
+ANKR-USD   # Ankr
+KNC-USD    # Kyber Network
+
+# =======================
+# AI / DATA / RWA THEMES
+# =======================
+FET-USD    # Fetch.ai
+AGIX-USD   # SingularityNET
+OCEAN-USD  # Ocean Protocol
+RLC-USD    # iExec RLC
+PHA-USD    # Phala Network
+ROSE-USD   # Oasis Network
+GNO-USD    # Gnosis
+NXRA-USD   # Nexera (se supportato)
+TLOS-USD   # Telos
+AKT-USD    # Akash Network
+RBN-USD    # Ribbon Finance
+NDX-USD    # Indexed Finance (se supportato)
+
+# =======================
+# GAMING / METAVERSE
+# =======================
+MANA-USD   # Decentraland
+SAND-USD   # The Sandbox
+AXS-USD    # Axie Infinity
+GALA-USD   # Gala
+ILV-USD    # Illuvium
+ENJ-USD    # Enjin
+WAXP-USD   # WAX
+PYR-USD    # Vulcan Forged
+IMX-USD    # Immutable
+YGG-USD    # Yield Guild Games
+MAGIC-USD  # Treasure
+ALICE-USD  # MyNeighborAlice
+
+# =======================
+# PRIVACY COINS
+# =======================
+XMR-USD    # Monero
+ZEC-USD    # Zcash
+DASH-USD   # Dash
+ZEN-USD    # Horizen
+
+# =======================
+# MEME / HIGH RISK
+# =======================
+SHIB-USD   # Shiba Inu
+PEPE-USD   # Pepe
+FLOKI-USD  # Floki
+BONK-USD   # Bonk
+WIF-USD    # dogwifhat
+BABYDOGE-USD  # Baby Doge
+DOGE-USD      # Dogecoin (anche top meme)
+ELON-USD   # Dogelon Mars
+SAMO-USD   # Samoyedcoin
+
+# =======================
+# STABLECOIN (solo monitor)
+# =======================
+USDT-USD   # Tether
+USDC-USD   # USD Coin
+DAI-USD    # DAI
+TUSD-USD   # TrueUSD
+FDUSD-USD  # First Digital USD
+
+# =======================
+# ALTRE L1 / NICHE
+# =======================
+KAS-USD    # Kaspa
+MINA-USD   # Mina
+AR-USD     # Arweave
+CHZ-USD    # Chiliz
+VET-USD    # VeChain
+HBAR-USD   # Hedera
+ICX-USD    # ICON
+ONT-USD    # Ontology
+QTUM-USD   # Qtum
+SC-USD     # Siacoin
+STORJ-USD  # Storj
+LPT-USD    # Livepeer
+GLM-USD    # Golem
+XVG-USD    # Verge
+ANKR-USD   # Ankr
+ZRX-USD    # 0x
+BAT-USD    # Basic Attention Token
+OMG-USD    # OMG Network
+SRM-USD    # Serum
+HOT-USD    # Holo
+DENT-USD   # Dent
+NANO-USD   # Nano
+IOTA-USD   # IOTA
+ROOK-USD   # KeeperDAO (se ancora quotato)
